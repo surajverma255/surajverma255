@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajverma255&label=Profile%20views&color=0e75b6&style=flat" alt="surajverma255" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajverma255" alt="surajverma255" /></a> </p>
 
 
 - 🌱 I’m currently learning **K8s, GCP and AWS etc etc etc**
