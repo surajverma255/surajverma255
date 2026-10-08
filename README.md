@@ -1,11 +1,11 @@
 <h1 align="center">Hello Universe</h1>
-<h3 align="center">SDET Lead @ Morgan Stanley</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajverma255&label=Profile%20views&color=0e75b6&style=flat" alt="surajverma255" /> </p>
 
 
 
-- 🌱 I’m currently learning **K8s, GCP and AWS etc etc etc**
+- 🌱 I’m currently learning **AI, ML, Agentic AI, RAG, bla bla bla and bla K8s, GCP and AWS etc etc etc**
 
 - 👯 I’m looking to collaborate on **B2B SaaS founders and tech enthus**
 
